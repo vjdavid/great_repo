@@ -1,0 +1,1 @@
+In the first moment of execute command ```git init``` we do turn a git repostiroy that means, the directories, files, scripts and all archives that contain of my folder will be tracked automatically. 
